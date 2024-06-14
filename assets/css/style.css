@@ -1,0 +1,140 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    line-height: 1.5rem;
+    font-size: 1.1rem;
+    font-family: "roboto", sans-serif;
+    font-family: "Open Sans", sans-serif;
+}
+
+header {
+    width: 100%;
+}
+
+.containter {
+    margin: 0 auto;
+    padding: 0;
+    width: 100%;
+    text-align: center;
+}
+
+.logoepic {
+    background-color: black;
+    text-align: center;
+    margin: 0 auto;
+    padding: 30px;
+}
+
+.logoepic img {
+    width: 150px;
+}
+
+.presentazione {
+    text-align: center;
+    background-image: url(../img/banner.jpg);
+    padding: 50px;
+}
+
+.presentazione h1 {
+    color: #25a2c3;
+    font-size: 2rem;
+    font-family: "Montserrat", sans-serif
+}
+
+.presentazione p {
+    font-family: 1.2rem "Open Sans", sans-serif;
+    line-height: 1.65;
+    padding: 20px;
+}
+
+button {
+    background-color: #f04c2f;
+    color: white;
+    padding: 15px 30px;
+    border-radius: 5px;
+    border: 0;
+    font-weight: bold;
+}
+
+.sezioni div {
+    width: 90%;
+    text-align: center;
+    margin: 30px;
+}
+
+.sezioni h2 {
+    color: #25a2c3;
+    font-family: "Montserrat", sans-serif;
+}
+
+.sezioni p {
+    font-family: "Open Sans", sans-serif;
+    line-height: 1.5;
+}
+
+.logotondo img {
+    border-radius: 100%;
+    display: block;
+    padding-left: 30px;
+}
+
+.bloccorosso {
+    background-color: #e22d0e;
+    color: white;
+    text-align: center;
+    padding: 25px;
+}
+
+.bloccorosso h2 {
+    font-size: 2em;
+    padding: 20px;
+    font-family: "Montserrat", sans-serif
+}
+
+blockquote {
+    padding: 30px;
+}
+
+.mario {
+    font-size: 1.3em;
+    padding-bottom: 10px;
+}
+
+.sezioni img {
+    width: 100%;
+    margin-top: 30px;
+}
+
+.rettgrigi {
+    border: 1px solid black;
+}
+
+.contatti {
+    background-color: #25a2c3;
+    color: white;
+    text-align: center;
+    padding: 50px;
+}
+
+.contatti h2 {
+    font-size: 1.9em;
+    padding-bottom: 30px;
+}
+
+.contatti p a {
+    color: white;
+}
+hr {
+    color: white;
+}
+.pixa {
+    margin-top: 30px;
+}
+.via {
+    margin-bottom: 30px;
+    margin-top: 5px;
+}
+.mail {
+    margin-top: 5px;
+}
