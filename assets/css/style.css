@@ -103,7 +103,7 @@ blockquote {
 
 .sezioni img {
     width: 100%;
-    margin-top: 30px;
+    /* margin-top: 30px; */
 }
 
 .rettgrigi {
@@ -137,4 +137,22 @@ hr {
 }
 .mail {
     margin-top: 5px;
+}
+
+.iltuopc {
+    border: 1px solid #dee1e3;
+    padding-bottom: 50px;
+}
+
+.imparaora {
+    border: 1px solid #dee1e3;
+    padding-bottom: 50px;
+}
+.lavorasubito {
+    border: 1px solid #dee1e3;
+    padding-bottom: 50px;
+}
+
+.pcard {
+    margin-top: 30px;
 }
