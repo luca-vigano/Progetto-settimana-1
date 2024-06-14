@@ -33,6 +33,7 @@ header {
 .presentazione {
     text-align: center;
     background-image: url(../img/banner.jpg);
+    background-size: contain;
     padding: 50px;
 }
 
@@ -66,6 +67,7 @@ button {
 .sezioni h2 {
     color: #25a2c3;
     font-family: "Montserrat", sans-serif;
+    margin-bottom: 15px;
 }
 
 .sezioni p {
@@ -76,7 +78,6 @@ button {
 .logotondo img {
     border-radius: 100%;
     display: block;
-    padding-left: 30px;
 }
 
 .bloccorosso {
@@ -103,7 +104,6 @@ blockquote {
 
 .sezioni img {
     width: 100%;
-    /* margin-top: 30px; */
 }
 
 .rettgrigi {
@@ -127,6 +127,8 @@ blockquote {
 }
 hr {
     color: white;
+    margin-left: 90px;
+    margin-right: 90px;
 }
 .pixa {
     margin-top: 30px;
