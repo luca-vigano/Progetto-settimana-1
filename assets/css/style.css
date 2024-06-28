@@ -4,7 +4,6 @@
     box-sizing: border-box;
     line-height: 1.5rem;
     font-size: 1.1rem;
-    font-family: "roboto", sans-serif;
     font-family: "Open Sans", sans-serif;
 }
 
@@ -12,21 +11,21 @@ header {
     width: 100%;
 }
 
-.containter {
+.container {
     margin: 0 auto;
     padding: 0;
     width: 100%;
     text-align: center;
 }
 
-.logoepic {
+.logo-epic {
     background-color: black;
     text-align: center;
     margin: 0 auto;
     padding: 30px;
 }
 
-.logoepic img {
+.logo-epic img {
     width: 150px;
 }
 
@@ -127,8 +126,8 @@ blockquote {
 }
 hr {
     color: white;
-    margin-left: 90px;
-    margin-right: 90px;
+    margin: 0 90px;
+
 }
 .pixa {
     margin-top: 30px;
@@ -158,3 +157,4 @@ hr {
 .pcard {
     margin-top: 30px;
 }
+
